@@ -10,3 +10,10 @@
 
 
 **Keywords:** Chord Recognition, Chord Substitution, Mobile Application, Deep Learning, Neural Networks, Music Information Retrieval, Chord, Note, Major, Minor, Audio Signal
+
+
+### File Documentation:
+* **APP:** Mobile Application Code
+* **Bigram-Trigram Extraction:** Code used to extract Bigram/Trigram Dictionaries
+* **Evaluation Scripts:** Scripts used to evaluate chord substitution system
+* **VM Files:** Web app for chord recognition & chord substitution code
