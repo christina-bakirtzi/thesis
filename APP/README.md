@@ -1,4 +1,4 @@
-# Mobile app
+# 'Re-Chord' App
 ### Build the app:
 -  Install [Android Studio](https://developer.android.com/studio)
 -  Open project with Android Studio
