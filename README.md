@@ -19,4 +19,5 @@
 * **VM Files:** Web app for chord recognition & chord substitution code
 
 ### Video:
-![alt_text](https://user-images.githubusercontent.com/57402023/136834580-33929f65-b977-46eb-9238-2a637f6bbc30.mp4)
+https://user-images.githubusercontent.com/57402023/136835027-9a2ee8f8-64ec-447b-9670-44760b5ae501.mp4
+
